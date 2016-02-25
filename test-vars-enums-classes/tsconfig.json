@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outDir": ".bin"
+  },
+  "files": [
+    "src/enum.ts",
+    "src/simple-vars-and-classes.ts",
+    "src/var-classes.ts",
+    "src/var-let.ts",
+    "src/vars-and-classes-test.ts"
+  ]
+}
