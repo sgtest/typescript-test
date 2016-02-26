@@ -3,6 +3,5 @@
     "typescript": "1.7.5"
   },
   "dependencies": {
-	  "npm" : "3.7.1",
   }
 }
