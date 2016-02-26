@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outDir": ".bin"
+  },
+  "files": [
+    "test-vars-enums-classes/enum.ts",
+    "test-vars-enums-classes/simple-vars-and-classes.ts",
+    "test-vars-enums-classes/var-classes.ts",
+    "test-vars-enums-classes/var-let.ts",
+    "test-vars-enums-classes/vars-and-classes-test.ts",
+    "test-interfaces/interface.ts
+  ]
+}
