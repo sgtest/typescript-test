@@ -1,7 +1,23 @@
-{
-  "devDependencies": {
-    "typescript": "1.7.5"
+{"version": "1.0.0",
+  "name": "srclib-typescript-tests",
+  "description": "Sourcegraph srclib typescript toolchain tests",
+  "keywords": [
+    "toolchain",
+    "sourcegraph",
+    "typescript",
+  ],
+  "homepage": "https://sourcegraph.com/",
+  "author": {
+    "name": "Antonina Cherednichenko",
+    "email": "acherednichenko@codeminders.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgtest/typescript-test"
   },
   "dependencies": {
-  }
+    "typescript": "^1.8.2"
+  },
 }
+
