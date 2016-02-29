@@ -10,6 +10,13 @@
     "test-vars-enums-classes/var-classes.ts",
     "test-vars-enums-classes/var-let.ts",
     "test-vars-enums-classes/vars-and-classes-test.ts",
-    "test-interfaces/interface.ts"
+    "test-interfaces/interface.ts",
+    "test-modules/external-modules1.ts",
+    "test-modules/external-modules2.ts",
+    "test-modules/internal-modules1.ts",
+    "test-modules/internal-modules2.ts",
+    "test-modules/internal-modules3.ts",
+    "test-modules/log.ts"
+
   ]
 }
