@@ -16,7 +16,34 @@
     "test-modules/internal-modules1.ts",
     "test-modules/internal-modules2.ts",
     "test-modules/internal-modules3.ts",
-    "test-modules/log.ts"
+    "test-modules/log.ts",
 
+    "MS-samples-testsuite/greeter/greeter.ts",
+    "MS-samples-testsuite/raytracer/raytracer.ts",
+    "MS-samples-testsuite/todomvc/js/todos.ts",
+    "MS-samples-testsuite/imageboard/routes/index.ts",
+    "MS-samples-testsuite/imageboard/db.ts",
+    "MS-samples-testsuite/imageboard/app.ts",
+    "MS-samples-testsuite/d3/data.ts",
+    "MS-samples-testsuite/d3/d3.d.ts",
+    "MS-samples-testsuite/warship/warship.ts",
+    
+    "MS-samples-testsuite/async/src/lib/github.ts",
+    "MS-samples-testsuite/async/src/lib/utils.ts",
+    "MS-samples-testsuite/async/src/lib/index.ts",
+    "MS-samples-testsuite/browserify/src/app.ts",
+    "MS-samples-testsuite/browserify/src/timeReporter.ts",
+    "MS-samples-testsuite/umd/shared/timeReporter.ts",
+    "MS-samples-testsuite/umd/browser/app.ts",
+    "MS-samples-testsuite/umd/node/os.d.ts",
+    "MS-samples-testsuite/umd/node/app.ts",
+    "MS-samples-testsuite/simple/animals.ts",
+    "MS-samples-testsuite/mankala/Base.ts",
+    "MS-samples-testsuite/mankala/Driver.ts",
+    "MS-samples-testsuite/mankala/Features.ts",
+    "MS-samples-testsuite/mankala/Game.ts",
+    "MS-samples-testsuite/mankala/Position.ts",
+    "MS-samples-testsuite/mankala/geometry.ts",
+    "MS-samples-testsuite/interfaces/interfaces.ts"
   ]
 }
