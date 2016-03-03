@@ -44,6 +44,7 @@
     "MS-samples-testsuite/mankala/Game.ts",
     "MS-samples-testsuite/mankala/Position.ts",
     "MS-samples-testsuite/mankala/geometry.ts",
-    "MS-samples-testsuite/interfaces/interfaces.ts"
+    "MS-samples-testsuite/interfaces/interfaces.ts",
+    "MS-samples-testsuite/jquery/parallax.ts"
   ]
 }
